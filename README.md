@@ -4,10 +4,10 @@ this repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
 # Activity 1
-![Activity 1](ScreenShot.PNG)\
+![Activity 1](ScreenShot.PNG)
 
 # Activity 2
-![Activity 2](ScreenShot2.PNG)\
+![Activity 2](ScreenShot2.PNG)
 
 # Activity 3
 
